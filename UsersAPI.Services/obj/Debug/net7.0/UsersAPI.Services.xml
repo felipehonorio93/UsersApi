@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UsersAPI.Services</name>
+    </assembly>
+    <members>
+        <member name="M:UsersAPI.Services.Controllers.AuthController.Login">
+            <summary>
+            Autenticar o usuário
+            </summary>
+        </member>
+        <member name="M:UsersAPI.Services.Controllers.AuthController.ForgotPassword">
+            <summary>
+            Recuperar senha de acesso do usuário
+            </summary>
+        </member>
+        <member name="M:UsersAPI.Services.Controllers.AuthController.ResetPassword">
+            <summary>
+            Reiniciar senha de acesso do usuário
+            </summary>
+        </member>
+        <member name="M:UsersAPI.Services.Controllers.UsersController.Add">
+            <summary>
+            Criar conta de usuário
+            </summary>
+        </member>
+        <member name="M:UsersAPI.Services.Controllers.UsersController.Update">
+            <summary>
+            Alterar os dados da conta do usuário
+            </summary>
+        </member>
+        <member name="M:UsersAPI.Services.Controllers.UsersController.Delete">
+            <summary>
+            Excluir conta de usuário
+            </summary>
+        </member>
+        <member name="M:UsersAPI.Services.Controllers.UsersController.Get">
+            <summary>
+            Consultar os dados da conta do usuário
+            </summary>
+        </member>
+    </members>
+</doc>
